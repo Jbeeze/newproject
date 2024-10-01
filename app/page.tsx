@@ -7,7 +7,10 @@ export default function Home() {
         <h1 className="text-3xl font-bold block text-center">
           Hello world
         </h1>
-        <Button>Click me to get this ball rolling ⚾️ </Button>
+        <Button
+        >
+          Click me to get this ball rolling ⚾️
+        </Button>
       </main>
     </div>
   );
